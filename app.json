@@ -1,0 +1,11 @@
+{
+  "reponame":"iotapp-template-mraa-lib-local",
+  "title":"MRAA Local Download",
+  "tooltip":"A sample for WebRTC chat",
+  "description":"A sample application intended for downloading the mraa library to your offline USB connected IoT development platform(Intel Galileo, Intel Edison, etc.).",
+  "keywords":["mraa","local download"],
+  "visible" : "true",
+  "appname": "demo.mraaliblocal",
+  "abbr":"MRAADownload",
+  "relname":"4.0.0"
+}
