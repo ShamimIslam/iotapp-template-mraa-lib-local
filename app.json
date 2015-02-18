@@ -5,8 +5,9 @@
   "description":"A sample application intended for downloading the mraa library to your offline USB connected IoT development platform(Intel Galileo, Intel Edison, etc.).",
   "keywords":["mraa","local download"],
   "visible" : "true",
+  "articleurl":"https://software.intel.com/en-us/html5/articles/intel-xdk-iot-edition-nodejs-templates",
   "appname": "demo.mraaliblocal",
   "abbr":"MRAADownload",
   "relname":"4.0.0",
-	"projectTypeName": "com.intel.xdk.projecttype.iotapp"
+  "projectTypeName": "com.intel.xdk.projecttype.iotapp"
 }
